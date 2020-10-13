@@ -2,7 +2,7 @@
   "name": "learningangulartake1",
   "version": "1.0.0",
   "description": "Following along with angular tutorials",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "test"
   },
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/GHJen/LearningAngularTake1/issues"
   },
-  "homepage": "https://github.com/GHJen/LearningAngularTake1#readme"
+  "homepage": "https://github.com/GHJen/LearningAngularTake1#readme",
+  "dependencies": {}
 }
